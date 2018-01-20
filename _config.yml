@@ -1,18 +1,11 @@
-title: One-Cargo
+title: any-cargo
 name: Torbjörn Nigren
-email: info@one-cargo.com
+email: info@any-cargo.com
 description: The last service provider you will ever need!
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "This site is under construction."
-project_one_description: Stay tuned!!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
-project_one_icon: location_on
-
-
-portfolio_type: cards
 
 # Skill icons from https://konpa.github.io/devicon/
 
