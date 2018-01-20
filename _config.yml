@@ -1,0 +1,48 @@
+title: One-Cargo
+name: Torbjörn Nigren
+email: info@one-cargo.com
+description: The last service provider you will ever need!
+
+parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/startup3.jpg
+
+project_one: "This site is under construction."
+project_one_description: Stay tuned!!
+project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one_icon: location_on
+
+
+portfolio_type: cards
+
+# Skill icons from https://konpa.github.io/devicon/
+
+skills:
+
+  - name: atom
+
+
+icon_size: 50 # font-size of icons in px
+colored: colored # Leave blank for black and white icons
+
+project_button: Github
+
+github: https://github.com/jameshamann/jekyll-material-theme
+medium: https://medium.com
+
+baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
+url: http://localhost:4000/ #the url of your site
+
+google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
+
+cookies_banner: none # The value "show" will show the cookies banner, the value "none" will hide the banner.
+
+cookie_accept_message: Thanks!
+
+# Build settings
+markdown: kramdown
+# theme: minima
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-minifier
