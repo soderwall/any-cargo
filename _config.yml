@@ -18,6 +18,7 @@ icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
 project_button: Github
+url: "https://any-cargo.com" # the base hostname & protocol for your site
 
 github: https://github.com/jameshamann/jekyll-material-theme
 medium: https://medium.com
@@ -39,3 +40,4 @@ plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-minifier
+  - jekyll-sitemap
